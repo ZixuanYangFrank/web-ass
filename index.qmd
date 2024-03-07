@@ -18,4 +18,4 @@ This website mainly introduces some information about Zixuan Yang, which can hel
 ```{r}
 1 + 1
 ```
-[My CV](cy1yang.pdf)
+[My CV](cy1yang.pdf) 
