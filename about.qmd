@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+Believe that you already know what kind of person he is from his personal information.
+
+```{r}
+1 + 1
+```

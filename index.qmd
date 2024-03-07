@@ -1,0 +1,21 @@
+---
+title: "aka frank"
+---
+
+1.Bio
+
+Zixuan Yang, originally from Tangshan City in Hebei Province, is an embodiment of ambition and diversity. Tangshan, strategically located as the gateway to Beijing and near Tianjin, is known for its significant geographic and economic position. Born into the rich cultural and historical backdrop of this region, with Shijiazhuang as its provincial capital, Zixuan has always been inclined towards embracing both the old and the new.
+
+Currently, Zixuan is pursuing an undergraduate degree at the University of Toronto, one of the world's leading institutions of learning. With a major in Statistics and Economics, he is not only equipping himself with the tools to understand the world's economic patterns but also how to interpret data in a way that can influence decision-making processes.
+
+Zixuan's love for life and study is palpable. His academic endeavors do not limit his interests; he is a true polymath with a passion for basketball and driving, showcasing his appreciation for both teamwork on the court and the independence found on open roads. This balance between solitary and group activities illustrates a versatile personality that thrives in varied environments.
+
+With plans to continue his academic journey into postgraduate studies, Zixuan is committed to deepening his understanding and expertise in his chosen fields. His dedication to academics, however, is complemented by a creative outlet—photography. This hobby allows him to capture moments, view the world through different lenses, and express himself beyond the realms of numbers and economic theories.
+
+From the historical and cultural richness of Tangshan to the academic halls of the University of Toronto, he carries with him a spirit of continuous learning and a deep appreciation for life's various facets. Whether on the basketball court, behind the wheel, or behind the camera, Zixuan is always exploring, always growing.
+2. CV
+This website mainly introduces some information about Zixuan Yang, which can help you know him better. The following is a resume file, you can see photos and other personal information through his resume.
+```{r}
+1 + 1
+```
+[My CV](cy1yang.pdf)
